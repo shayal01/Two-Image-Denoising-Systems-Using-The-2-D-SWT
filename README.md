@@ -21,3 +21,5 @@ When the 10 highest frequency bands are made to zero more noise is reduced compa
 
 • _15 Highest frequency band is zeroed out_
 Coming to the final case where 15 highest frequency bands are made to zero, most of the noise is filtered out from the input noisy image, which results to increase the quality of the reconstructed image a lot (with very less grains). From the 2-D DFT plot of the reconstructed image, we can see more highest frequencies are blacked out, which implies some more high frequency bands are made to zero.
+ 
+The figures of each cases are uploaded in this repository
